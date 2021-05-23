@@ -40,4 +40,4 @@ exec: true     # Enable running commands in your container.
 #  test:
 #    count: 2               # Number of tasks to run for the "test" environment.
 variables:
-  AWS_DEFAULT_REGION: 
+AWS_DEFAULT_REGION: eu-central-1
